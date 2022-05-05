@@ -39,6 +39,8 @@ namespace Formularios
                 double presion = rot.main.pressure;
                 double humedad = rot.main.humidity;
                 double k;
+                double k;
+                double l;
                 long sunrise = rot.sys.sunrise;
                 long sunset = rot.sys.sunset;
                 double viento = rot.wind.speed;
