@@ -1,0 +1,6 @@
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\bin\Debug\Domai.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\bin\Debug\Domai.pdb
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\obj\Debug\Domai.csproj.AssemblyReference.cache
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\obj\Debug\Domai.csproj.CoreCompileInputs.cache
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\obj\Debug\Domai.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Domai\obj\Debug\Domai.pdb

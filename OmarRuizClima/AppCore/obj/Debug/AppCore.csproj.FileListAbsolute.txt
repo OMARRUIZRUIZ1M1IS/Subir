@@ -1,0 +1,9 @@
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\bin\Debug\AppCore.dll
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\bin\Debug\AppCore.pdb
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\bin\Debug\Domai.dll
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\bin\Debug\Domai.pdb
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\obj\Debug\AppCore.csproj.AssemblyReference.cache
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\obj\Debug\AppCore.csproj.CopyComplete
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\obj\Debug\AppCore.dll
+C:\Users\omarj\source\repos\OmarRuizClima\AppCore\obj\Debug\AppCore.pdb

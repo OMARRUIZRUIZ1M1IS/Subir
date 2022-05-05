@@ -1,0 +1,11 @@
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Domai.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Domai.pdb
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\obj\Debug\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\omarj\source\repos\OmarRuizClima\Infraestructura\obj\Debug\Infraestructura.pdb
